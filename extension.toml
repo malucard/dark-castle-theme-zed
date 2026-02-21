@@ -1,5 +1,5 @@
-id = "dark-castle"
-name = "Dark Castle"
+id = "dark-castle-theme"
+name = "Dark Castle Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["malucart"]
