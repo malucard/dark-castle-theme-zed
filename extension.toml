@@ -1,6 +1,6 @@
 id = "dark-castle-theme"
 name = "Dark Castle Theme"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["malucart"]
 description = "A very dark, colorful theme for focus and readability"
